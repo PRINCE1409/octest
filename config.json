@@ -1,0 +1,17 @@
+{
+  "Mongodb": {
+    "username": "daksh123",
+    "password": "daksh123"
+  },
+  "jwt": {
+    "secret": "applicationV1",
+    "expiresIn": "90d"
+  },
+  "nodemailer": {
+    "clientId": "157564625195-nl1k4smh0o7kf1j6bi0qr7plthlvs9m1.apps.googleusercontent.com",
+    "clientSecret": "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",
+    "refreshToken": "1//04VpenmrcnhOUCgYIARAAGAQSNwF-L9Irej-UvVTVW7xYjlVAT7ji9bC2pIHNvTmPU6_Eld-BhzXTEC70yQglzvj_FMPNxSD-GrE",
+    "userEmail": "123testpython@gmail.com",
+    "redirectURL": "https://developers.google.com/oauthplayground"
+  }
+}
